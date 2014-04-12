@@ -3373,6 +3373,7 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="J1" pad="2"/>
 <contactref element="J1" pad="1"/>
 <via x="15.367" y="53.848" extent="1-16" drill="0.3302"/>
+<via x="7.62" y="38.1" extent="1-16" drill="0.3302"/>
 </signal>
 <signal name="+3V3">
 <contactref element="CON1" pad="2"/>
